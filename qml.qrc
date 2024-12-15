@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/information.svg</file>
+        <file>qml/pages/main.qml</file>
+        <file>qml/components/TextButton.qml</file>
+    </qresource>
+</RCC>
